@@ -11,3 +11,5 @@ jwt.expiration=172800000
 
 logging.level.org.springframework.security=DEBUG
 logging.level.org.url.shortener=DEBUG
+
+frontend.url=YOUR_FRONTEND_URL_HERE
